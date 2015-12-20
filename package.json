@@ -1,0 +1,23 @@
+{
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malcolm-s/travis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malcolm-s/travis/issues"
+  },
+  "homepage": "https://github.com/malcolm-s/travis#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
